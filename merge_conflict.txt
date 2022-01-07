@@ -1,0 +1,32 @@
+After creating a new branch named new_branch
+Changed Readme.xd of new_branch manually
+Added all files to staging area
+Commit the changes
+Went back to main branch
+Changed Readme.md file of main manually
+Added all files to staging area
+Commit the changes
+
+Tried to merge new_branch to main 
+Merge conflit arised
+
+Went to new_branch 
+Changed its Readme.md manually
+
+Went to main
+Changed its Readme.md manually
+
+Tried to merge again 
+Merge successful
+
+To check if merge error was resolved and its working okay::
+
+Created new file file2.txt in new_branch
+Added file2.txt to staging area
+Commit creation of new file in new_branch
+
+Went to main branch
+Merged new_branch to main
+Merge successful without any conflict
+
+
