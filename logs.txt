@@ -1,0 +1,30 @@
+commit 3072c4f5c009787551712908e673d31304b5426a
+Author: mittalankur9 <mittalankur9@users.noreply.github.com>
+Date:   Fri Jan 7 20:55:35 2022 +0530
+
+    Created a file merge_conflict.txt
+
+commit 43030e8b6471814d989f66f63adc408d3d6691ec
+Merge: f0baac8 c1deaba
+Author: mittalankur9 <mittalankur9@users.noreply.github.com>
+Date:   Fri Jan 7 20:37:36 2022 +0530
+
+    Reset the Readme file
+
+commit f0baac8d6f2fc63756ce17e37f1ab3a3a4ee30c4
+Author: mittalankur9 <mittalankur9@users.noreply.github.com>
+Date:   Fri Jan 7 20:34:27 2022 +0530
+
+    Changed Readme file manually
+
+commit c1deaba3829bcd430a67cf859a820fb5a53aa99b
+Author: mittalankur9 <mittalankur9@users.noreply.github.com>
+Date:   Fri Jan 7 20:33:15 2022 +0530
+
+    Created a new text file and changed Readme file
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
